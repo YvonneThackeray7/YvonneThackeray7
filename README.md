@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**YvonneThackeray7/YvonneThackeray7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello everyone, 
+I'm Nathan, and I’m currently a student majoring in Artificial Intelligence. 
+My primary research interest lies in the field of AI Agents 
+— intelligent systems capable of autonomous reasoning, planning, 
+and interacting with their environment. 
+I’m especially fascinated by how multi-agent collaboration, 
+reinforcement learning, 
+and large language models can be integrated to build more adaptive and human-aligned agents.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+During my studies, 
+I’ve been exploring both the theoretical and practical aspects of agent architectures, 
+such as goal-oriented reasoning, dialogue-based task execution, 
+and tool-use integration. 
+I enjoy combining programming with research, 
+experimenting with frameworks that bring agents closer to real-world applications. 
+In the future, 
+I hope to contribute to developing agent systems that can act as reliable partners for humans in education, science, and creative work.
